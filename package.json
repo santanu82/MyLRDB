@@ -26,7 +26,7 @@
     "react-native-looped-carousel": "^0.1.13",
     "react-native-material-dropdown": "^0.11.1",
     "react-native-pdf": "^5.0.12",
-    "react-native-reanimated": "^1.0.0-alpha.12",
+    "react-native-reanimated": "^2.10.0",
     "react-native-secure-key-store": "^2.0.2",
     "react-native-simple-radio-button": "^2.7.3",
     "react-native-swiper": "^1.5.14",
